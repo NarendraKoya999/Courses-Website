@@ -1,0 +1,98 @@
+[
+    {
+        "name": "React",
+        "url": "https://reactjs.org/",
+        "description": "A JavaScript library for building user interfaces.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2013
+    },
+    {
+        "name": "Redux",
+        "url": "https://redux.js.org/",
+        "description": "A predictable state container for JavaScript apps.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2015
+    },
+    {
+        "name": "Material UI",
+        "url": "https://mui.com/",
+        "description": "A UI toolkit for building faster, beautiful, and responsive web apps.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2014
+    },
+    {
+        "name": "D3.js",
+        "url": "https://d3js.org/",
+        "description": "A JavaScript library for charting, data manipulation, and visualization.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2013
+    },
+    {
+        "name": "Chart.js",
+        "url": "https://www.chartjs.org/",
+        "description": "A charting library for JavaScript.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2012
+    },
+    {
+        "name": "React-Redux",
+        "url": "https://react-redux.js.org/",
+        "description": "The official React bindings for Redux.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2015
+    }
+]

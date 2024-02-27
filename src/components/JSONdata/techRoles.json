@@ -1,0 +1,578 @@
+[
+    {
+      "id": 1,
+      "role": "Software Engineer",
+      "skills": [
+        "Python",
+        "C++",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Git",
+        "GitHub",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Django",
+        "Flask",
+        "React.js",
+        "Vue.js",
+        "Angular.js",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "Tailwind CSS"
+      ],
+      "resources": [
+        {
+          "title": "LeetCode",
+          "url": "https://leetcode.com/",
+          "description": "Platform for practicing coding problems"
+        },
+        {
+          "title": "HackerRank",
+          "url": "https://www.hackerrank.com/",
+          "description": "Platform for competitive programming and coding challenges"
+        },
+        {
+          "title": "GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/",
+          "description": "Website with articles and coding challenges for software engineers"
+        },
+        {
+          "title": "Stack Overflow",
+          "url": "https://stackoverflow.com/",
+          "description": "Community-driven question and answer site for programming"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "role": "AI Engineer",
+      "skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Machine Learning",
+        "Data Science",
+        "Data Visualization"
+      ],
+      "resources": [
+        {
+          "title": "TensorFlow",
+          "url": "https://www.tensorflow.org/",
+          "description": "Open-source machine learning framework"
+        },
+        {
+          "title": "PyTorch",
+          "url": "https://pytorch.org/",
+          "description": "Open-source machine learning framework"
+        },
+        {
+          "title": "Coursera",
+          "url": "https://www.coursera.org/",
+          "description": "Online courses on AI and machine learning"
+        },
+        {
+          "title": "Fast.ai",
+          "url": "https://www.fast.ai/",
+          "description": "Online courses and resources for deep learning"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "role": "Data Scientist",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Data Science",
+        "Data Visualization",
+        "SQL",
+        "Tableau",
+        "PowerBI",
+        "AWS",
+        "Hadoop",
+        "Spark",
+        "R"
+      ],
+      "resources": [
+        {
+          "title": "Kaggle",
+          "url": "https://www.kaggle.com/",
+          "description": "Platform for data science competitions and datasets"
+        },
+        {
+          "title": "DataCamp",
+          "url": "https://www.datacamp.com/",
+          "description": "Online platform for learning data science"
+        },
+        {
+          "title": "Towards Data Science",
+          "url": "https://towardsdatascience.com/",
+          "description": "Online publication for data science articles and tutorials"
+        },
+        {
+          "title": "Coursera",
+          "url": "https://www.coursera.org/",
+          "description": "Online learning platform offering data science courses"
+        },
+        {
+          "title": "Udacity",
+          "url": "https://www.udacity.com/",
+          "description": "Online education platform with data science nanodegree programs"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "role": "Product Manager",
+      "skills": [
+        "Product Management",
+        "Marketing",
+        "Business Analysis",
+        "Project Management",
+        "Agile Methodology",
+        "User Experience",
+        "User Research",
+        "User Testing",
+        "User Interface Design"
+      ],
+      "resources": [
+        {
+          "title": "Mind the Product",
+          "url": "https://www.mindtheproduct.com/",
+          "description": "Online community and resources for product managers"
+        },
+        {
+          "title": "Product School",
+          "url": "https://www.productschool.com/",
+          "description": "Training courses and certifications for product management"
+        },
+        {
+          "title": "Pragmatic Institute",
+          "url": "https://www.pragmaticinstitute.com/",
+          "description": "Training and resources for product management and marketing"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "role": "Frontend Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React.js",
+        "Vue.js",
+        "Angular.js",
+        "jQuery",
+        "Bootstrap",
+        "Tailwind CSS",
+        "SASS",
+        "LESS",
+        "Git",
+        "GitHub",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Serverless",
+        "APIs",
+        "Nginx"
+      ],
+      "resources": [
+        {
+          "title": "MDN Web Docs",
+          "url": "https://developer.mozilla.org/",
+          "description": "Web documentation on HTML, CSS, and JavaScript"
+        },
+        {
+          "title": "W3Schools",
+          "url": "https://www.w3schools.com/",
+          "description": "Online tutorials and references for web development"
+        },
+        {
+          "title": "Frontend Masters",
+          "url": "https://frontendmasters.com/",
+          "description": "Online courses on frontend development"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "role": "Backend Developer",
+      "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "C#",
+        "PHP",
+        "Ruby",
+        "Node.js",
+        "JavaScript",
+        "Rust",
+        "Go",
+        "Django",
+        "Flask",
+        "Laravel",
+        "Spring",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Serverless",
+        "APIs",
+        "Nginx"
+      ],
+      "resources": [
+        {
+          "title": "Mozilla Developer Network (MDN)",
+          "url": "https://developer.mozilla.org/",
+          "description": "Web documentation on various backend technologies"
+        },
+        {
+          "title": "Stack Overflow",
+          "url": "https://stackoverflow.com/",
+          "description": "Community-driven question and answer site for programming"
+        },
+        {
+          "title": "DigitalOcean Community",
+          "url": "https://www.digitalocean.com/community/",
+          "description": "Tutorials and articles on server management and deployment"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "role": "UI/UX Designer",
+      "skills": [
+        "Adobe XD",
+        "Sketch",
+        "Figma",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Adobe AfterEffects",
+        "Adobe Premiere Pro"
+      ],
+      "resources": [
+        {
+          "title": "Nielsen Norman Group",
+          "url": "https://www.nngroup.com/",
+          "description": "Research-based UX articles and resources"
+        },
+        {
+          "title": "UX Planet",
+          "url": "https://uxplanet.org/",
+          "description": "Publication for UX articles and tutorials"
+        },
+        {
+          "title": "Adobe XD Tutorials",
+          "url": "https://letsxd.com/",
+          "description": "Tutorials for Adobe XD design tool"
+        },
+        {
+          "title": "Figma Community",
+          "url": "https://www.figma.com/community/",
+          "description": "Community resources and templates for Figma"
+        },
+        {
+          "title": "Sketch Documentation",
+          "url": "https://www.sketch.com/docs/",
+          "description": "Official documentation for Sketch design tool"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "role": "Full Stack Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React.js",
+        "Vue.js",
+        "Angular.js",
+        "jQuery",
+        "Bootstrap",
+        "Tailwind CSS",
+        "SASS",
+        "LESS",
+        "Git",
+        "GitHub",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Serverless",
+        "APIs",
+        "Nginx"
+      ],
+      "resources": [
+        {
+          "title": "FreeCodeCamp",
+          "url": "https://www.freecodecamp.org/",
+          "description": "Free coding curriculum covering both frontend and backend development"
+        },
+        {
+          "title": "The Odin Project",
+          "url": "https://www.theodinproject.com/",
+          "description": "Free full stack web development curriculum with projects"
+        },
+        {
+          "title": "Udemy",
+          "url": "https://www.udemy.com/",
+          "description": "Online courses on full stack development"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "role": "Mobile App Developer",
+      "skills": [
+        "Android",
+        "iOS",
+        "Swift",
+        "Kotlin",
+        "Objective-C",
+        "Xcode",
+        "Xamarin",
+        "Flutter"
+      ],
+      "resources": [
+        {
+          "title": "Android Developers",
+          "url": "https://developer.android.com/",
+          "description": "Official documentation and guides for Android development"
+        },
+        {
+          "title": "iOS Dev Center",
+          "url": "https://developer.apple.com/devcenter/",
+          "description": "Official documentation and resources for iOS development"
+        },
+        {
+          "title": "Ray Wenderlich",
+          "url": "https://www.raywenderlich.com/",
+          "description": "Tutorials and guides for iOS and Android development"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "role": "Game Developer",
+      "skills": [
+        "Unity",
+        "Unreal Engine",
+        "C#",
+        "C++",
+        "Java",
+        "JavaScript",
+        "Game Development",
+        "Game Engines"
+      ],
+      "resources": [
+        {
+          "title": "Unity Learn",
+          "url": "https://learn.unity.com/",
+          "description": "Official tutorials and resources for Unity game engine"
+        },
+        {
+          "title": "Unreal Engine Documentation",
+          "url": "https://docs.unrealengine.com/en-US/index.html",
+          "description": "Official documentation for Unreal Engine"
+        },
+        {
+          "title": "Gamasutra",
+          "url": "https://www.gamasutra.com/",
+          "description": "Articles and resources for game developers"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "role": "Cloud Architect",
+      "skills": [
+        "AWS",
+        "Azure",
+        "Google Cloud"
+      ],
+      "resources": [
+        {
+          "title": "AWS Documentation",
+          "url": "https://docs.aws.amazon.com/",
+          "description": "Official documentation for Amazon Web Services"
+        },
+        {
+          "title": "Azure Documentation",
+          "url": "https://docs.microsoft.com/en-us/azure/",
+          "description": "Official documentation for Microsoft Azure"
+        },
+        {
+          "title": "Google Cloud Documentation",
+          "url": "https://cloud.google.com/docs/",
+          "description": "Official documentation for Google Cloud Platform"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "role": "DevOps Engineer",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "Terraform",
+        "AWS",
+        "Azure",
+        "Google Cloud"
+      ],
+      "resources": [
+        {
+          "title": "Docker Documentation",
+          "url": "https://docs.docker.com/",
+          "description": "Official documentation for Docker"
+        },
+        {
+          "title": "Kubernetes Documentation",
+          "url": "https://kubernetes.io/docs/",
+          "description": "Official documentation for Kubernetes"
+        },
+        {
+          "title": "Jenkins Documentation",
+          "url": "https://www.jenkins.io/doc/",
+          "description": "Official documentation for Jenkins"
+        },
+        {
+          "title": "Terraform Documentation",
+          "url": "https://learn.hashicorp.com/terraform",
+          "description": "Official documentation for Terraform"
+        },
+        {
+          "title": "Udemy",
+          "url": "https://www.udemy.com/",
+          "description": "Online learning platform with DevOps courses"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "role": "Cybersecurity Analyst",
+      "skills": [
+        "Network Security",
+        "Ethical Hacking",
+        "Incident Response",
+        "Security Tools"
+      ],
+      "resources": [
+        {
+          "title": "Cybrary",
+          "url": "https://www.cybrary.it/",
+          "description": "Online cybersecurity learning platform"
+        },
+        {
+          "title": "SANS Cyber Aces",
+          "url": "https://www.cyberaces.org/",
+          "description": "Free cybersecurity training provided by SANS Institute"
+        },
+        {
+          "title": "OWASP",
+          "url": "https://owasp.org/",
+          "description": "Open web application security project with resources and tools"
+        },
+        {
+          "title": "SecurityTube",
+          "url": "https://www.securitytube.net/",
+          "description": "Platform for cybersecurity videos and tutorials"
+        },
+        {
+          "title": "Coursera",
+          "url": "https://www.coursera.org/",
+          "description": "Online learning platform offering cybersecurity courses"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "role": "Data Analyst",
+      "skills": [
+        "Data Analysis",
+        "Statistics",
+        "SQL",
+        "Data Visualization"
+      ],
+      "resources": [
+        {
+          "title": "Mode Analytics",
+          "url": "https://mode.com/",
+          "description": "Platform for SQL-based data analysis and visualization"
+        },
+        {
+          "title": "DataCamp",
+          "url": "https://www.datacamp.com/",
+          "description": "Online platform for learning data analysis"
+        },
+        {
+          "title": "Kaggle Datasets",
+          "url": "https://www.kaggle.com/datasets",
+          "description": "Datasets for practice and analysis"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "role": "ML Engineer",
+      "skills": [
+        "Machine Learning",
+        "Deep Learning",
+        "Python",
+        "Model Deployment"
+      ],
+      "resources": [
+        {
+          "title": "TensorFlow",
+          "url": "https://www.tensorflow.org/",
+          "description": "Open-source machine learning framework"
+        },
+        {
+          "title": "PyTorch",
+          "url": "https://pytorch.org/",
+          "description": "Open-source machine learning framework"
+        },
+        {
+          "title": "Coursera",
+          "url": "https://www.coursera.org/",
+          "description": "Online courses on AI and machine learning"
+        },
+        {
+          "title": "Fast.ai",
+          "url": "https://www.fast.ai/",
+          "description": "Online courses and resources for deep learning"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "role": "Software Tester",
+      "skills": [
+        "Software Testing",
+        "Test Automation",
+        "Bug Tracking"
+      ],
+      "resources": [
+        {
+          "title": "ISTQB",
+          "url": "https://www.istqb.org/",
+          "description": "Certification for software testing"
+        },
+        {
+          "title": "Selenium",
+          "url": "https://www.selenium.dev/",
+          "description": "Open-source tool for test automation"
+        },
+        {
+          "title": "Bugzilla",
+          "url": "https://www.bugzilla.org/",
+          "description": "Open-source bug tracking system"
+        }
+      ]
+    }
+  ]
+  

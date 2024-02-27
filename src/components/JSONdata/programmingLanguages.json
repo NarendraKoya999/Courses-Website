@@ -1,0 +1,235 @@
+{
+  "languages": [
+    {
+      "name": "Python",
+      "url": "https://www.python.org",
+      "description": "A high-level, general-purpose programming language known for its readability.",
+      "paradigms": [
+        "object-oriented",
+        "imperative",
+        "functional",
+        "procedural"
+      ],
+      "applications": [
+        "web development",
+        "data science",
+        "machine learning"
+      ],
+      "year_created": 1991
+    },
+    {
+      "name": "Java",
+      "url": "https://www.oracle.com/java/",
+      "description": "A high-level, class-based, object-oriented programming language.",
+      "paradigms": [
+        "object-oriented",
+        "imperative"
+      ],
+      "applications": [
+        "web development",
+        "enterprise applications",
+        "Android apps"
+      ],
+      "year_created": 1995
+    },
+    {
+      "name": "C++",
+      "url": "https://isocpp.org/",
+      "description": "An extension of C that includes object-oriented features.",
+      "paradigms": [
+        "procedural",
+        "object-oriented",
+        "functional",
+        "generic"
+      ],
+      "applications": [
+        "system/software development",
+        "game development"
+      ],
+      "year_created": 1983
+    },
+    {
+      "name": "JavaScript",
+      "url": "https://www.javascript.com/",
+      "description": "An interpreted scripting language for web development and more.",
+      "paradigms": [
+        "object-oriented",
+        "imperative",
+        "functional"
+      ],
+      "applications": [
+        "web development",
+        "client-side scripting"
+      ],
+      "year_created": 1995
+    },
+    {
+      "name": "C",
+      "url": "https://en.wikipedia.org/wiki/C_(programming_language)",
+      "description": "A procedural programming language.",
+      "paradigms": [
+        "procedural",
+        "imperative"
+      ],
+      "applications": [
+        "system/software development",
+        "embedded systems"
+      ],
+      "year_created": 1972
+    },
+    {
+      "name": "C#",
+      "url": "https://docs.microsoft.com/en-us/dotnet/csharp/",
+      "description": "A multi-paradigm programming language developed by Microsoft.",
+      "paradigms": [
+        "object-oriented",
+        "imperative",
+        "functional"
+      ],
+      "applications": [
+        "web development",
+        "desktop applications"
+      ],
+      "year_created": 2000
+    },
+    {
+      "name": "PHP",
+      "url": "https://www.php.net/",
+      "description": "A server-side scripting language for web development.",
+      "paradigms": [
+        "object-oriented",
+        "imperative",
+        "functional"
+      ],
+      "applications": [
+        "web development"
+      ],
+      "year_created": 1995
+    },
+    {
+      "name": "Ruby",
+      "url": "https://www.ruby-lang.org/",
+      "description": "A dynamic, reflective, object-oriented programming language.",
+      "paradigms": [
+        "object-oriented",
+        "imperative",
+        "functional"
+      ],
+      "applications": [
+        "web development"
+      ],
+      "year_created": 1995
+    },
+    {
+      "name": "Swift",
+      "url": "https://developer.apple.com/swift/",
+      "description": "A powerful language for iOS and macOS development.",
+      "paradigms": [
+        "object-oriented",
+        "imperative",
+        "functional"
+      ],
+      "applications": [
+        "iOS and macOS apps"
+      ],
+      "year_created": 2014
+    },
+    {
+      "name": "Go",
+      "url": "https://golang.org/",
+      "description": "A statically typed language designed at Google.",
+      "paradigms": [
+        "imperative",
+        "functional"
+      ],
+      "applications": [
+        "web development",
+        "cloud services"
+      ],
+      "year_created": 2009
+    },
+    {
+      "name": "Rust",
+      "url": "https://www.rust-lang.org/",
+      "description": "A language focused on safety and performance.",
+      "paradigms": [
+        "imperative",
+        "functional"
+      ],
+      "applications": [
+        "systems programming",
+        "web assembly"
+      ],
+      "year_created": 2010
+    },
+    {
+      "name": "Kotlin",
+      "url": "https://kotlinlang.org/",
+      "description": "A statically typed language for modern multiplatform applications.",
+      "paradigms": [
+        "object-oriented",
+        "functional"
+      ],
+      "applications": [
+        "Android apps",
+        "web development"
+      ],
+      "year_created": 2011
+    },
+    {
+      "name": "Dart",
+      "url": "https://www.dartlang.org/",
+      "description": "Optimized for UI, developed by Google.",
+      "paradigms": [
+        "object-oriented"
+      ],
+      "applications": [
+        "mobile apps (Flutter)",
+        "web applications"
+      ],
+      "year_created": 2011
+    },
+    {
+      "name": "Scala",
+      "url": "https://www.scala-lang.org/",
+      "description": "Integrates features of object-oriented and functional languages.",
+      "paradigms": [
+        "object-oriented",
+        "functional"
+      ],
+      "applications": [
+        "web development",
+        "big data processing"
+      ],
+      "year_created": 2003
+    },
+    {
+      "name": "TypeScript",
+      "url": "https://www.typescriptlang.org/",
+      "description": "A strict syntactical superset of JavaScript.",
+      "paradigms": [
+        "object-oriented",
+        "imperative",
+        "functional"
+      ],
+      "applications": [
+        "web development"
+      ],
+      "year_created": 2012
+    },
+    {
+      "name": "R",
+      "url": "https://www.r-project.org/",
+      "description": "A language and environment for statistical computing and graphics.",
+      "paradigms": [
+        "imperative",
+        "functional"
+      ],
+      "applications": [
+        "statistical computing",
+        "data analysis"
+      ],
+      "year_created": 1993
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+[
+    {
+        "name": "Angular",
+        "url": "https://angular.io/",
+        "description": "A TypeScript-based open-source web application framework.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2016
+    },
+    {
+        "name": "Express",
+        "url": "https://expressjs.com/",
+        "description": "Fast, unopinionated, minimalist web framework for Node.js.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2010
+    },
+    {
+        "name": "Next.js",
+        "url": "https://nextjs.org/",
+        "description": "The React Framework for Production",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2018
+    },
+    {
+        "name": "Nuxt.js",
+        "url": "https://nuxtjs.org/",
+        "description": "The Vue.js Framework for Production",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2017
+    },
+    {
+        "name": "Ruby on Rails",
+        "url": "https://rubyonrails.org/",
+        "description": "A web application framework written in Ruby.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2003
+    },
+    {
+        "name": "Django",
+        "url": "https://www.djangoproject.com/",
+        "description": "A high-level Python web framework that encourages rapid development and clean, pragmatic design.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2005
+    },
+    {
+        "name": "Spring Boot",
+        "url": "https://spring.io/projects/spring-boot",
+        "description": "An open-source Java-based framework used to create microservices.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2010
+    },
+    {
+        "name": "Flask",
+        "url": "https://flask.palletsprojects.com/",
+        "description": "A lightweight WSGI web application framework in Python.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2010
+    },
+    {
+        "name": "Laravel",
+        "url": "https://laravel.com/",
+        "description": "A PHP framework for web artisans.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2011
+    },
+    {
+        "name": "Vue.js",
+        "url": "https://vuejs.org/",
+        "description": "The Progressive JavaScript Framework.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2014
+    },
+    {
+        "name": "Svelte",
+        "url": "https://svelte.dev/",
+        "description": "The Progressive JavaScript Framework.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2013
+    },
+    {
+        "name": "Ember.js",
+        "url": "https://emberjs.com/",
+        "description": "A framework for creating ambitious web applications.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2011
+    },
+    {
+        "name": "Meteor",
+        "url": "https://www.meteor.com/",
+        "description": "A platform for building web applications.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2008
+    },
+    {
+        "name": "Bootstrap",
+        "url": "https://getbootstrap.com/",
+        "description": "A popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2010
+    },
+    {
+        "name": "Tailwind CSS",
+        "url": "https://tailwindcss.com/",
+        "description": "A utility-first CSS framework for rapidly building custom user interfaces.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2014
+    },
+    {
+        "name": "React Native",
+        "url": "https://reactnative.dev/",
+        "description": "A framework for building native apps with React.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2015
+    },
+    {
+        "name": "Flutter",
+        "url": "https://flutter.dev/",
+        "description": "A framework for building native apps with Dart.",
+        "paradigms": [
+            "front-end",
+            "back-end",
+            "full-stack"
+        ],
+        "applications": [
+            "web development",
+            "mobile development",
+            "data science"
+        ],
+        "year_created": 2017
+    }
+]
